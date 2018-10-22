@@ -395,6 +395,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	</div>
 <!-- //team -->
+	
 	<!-- contact -->
 	<div class="contact-bottom w3ls-section" id="contact">
 		<div class="container">
